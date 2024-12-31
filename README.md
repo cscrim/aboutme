@@ -1,4 +1,4 @@
-# Hi there, I'm Courtney 👋
+# Hi there, I'm Courtney 👋🏻
 I'm a Customer Success & Operations professional with 8+ years of experience in SaaS, looking to blend my expertise into either a Software Engineering or Product Management role. I specialize in building scalable, user-centric applications and driving product strategy through user stories and defining acceptance criteria. 
 
 ## About Me 👱🏻‍♀️
