@@ -10,7 +10,7 @@ I'm a Customer Success & Operations professional with 8+ years of experience in 
 
 
 ## Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,npm,express,mysql,postman,vite,vscode,git,github,py,anaconda,c,figma,heroku,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,npm,express,mysql,postman,vite,vscode,git,github,py,anaconda,c,figma,heroku)](https://skillicons.dev)
 
 
 ## Get in Touch 📫
